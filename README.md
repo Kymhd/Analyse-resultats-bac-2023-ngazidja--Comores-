@@ -15,7 +15,7 @@ git clone https://github.com/Kymhd/analyse-resultats-bac-2023-ngazidja--Comores-
 
 2. Installez les dépendances :
 
-pip install -r requirements.txt
+``pip install -r requirements.txt``
 
 
 ## Démarrage du projet
