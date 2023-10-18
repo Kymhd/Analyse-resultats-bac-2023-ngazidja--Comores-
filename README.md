@@ -6,7 +6,7 @@ Ce projet est une application Python pour manipuler les données du baccalauréa
 Analyse des résultats du ``baccalauréat 2023 aux Comores, sur l'île de Ngazidja``
 Ce dépôt contient un programme Python qui permet d'analyser les données CSV des résultats du baccalauréat 2023 aux Comores, sur l'île de Ngazidja.
 
-Installation
+# Installation
 Pour installer ce programme, suivez les étapes suivantes :
 
 1. Clonez le dépôt GitHub :
