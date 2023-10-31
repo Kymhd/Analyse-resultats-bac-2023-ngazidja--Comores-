@@ -1,10 +1,7 @@
 # Projet Baccalauréat 2023 aux Comores (île de Ngazidja)
 # analyse-resultats-bac-2023-ngazidja
 
-Ce projet est une application Python pour manipuler les données du baccalauréat 2023 aux ``Comores``, en particulier sur l'île de Ngazidja. Voic les fonctionnalités de l'application:
-
-Analyse des résultats du ``baccalauréat 2023 aux Comores, sur l'île de Ngazidja``
-Ce dépôt contient un programme Python qui permet d'analyser les données CSV des résultats du baccalauréat 2023 aux Comores, sur l'île de Ngazidja.
+Ce projet est une application Python pour manipuler les données du baccalauréat 2023 aux ``Comores``, en particulier sur l'île de Ngazidja. Voici les fonctionnalités de l'application:
 
 # Installation
 Pour installer ce programme, suivez les étapes suivantes :
